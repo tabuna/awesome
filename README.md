@@ -25,7 +25,7 @@ Have you found something that make Laravel Orchid more awesome? Make a PR and ad
 * Add yours to the list, make a PR!
 
 ## Code Snippets
-* Add yours to the list, make a PR!
+* [14.01.2019] - [It is not necessary to declare all fields every time](https://gist.github.com/tabuna/571a293e9d41ca81ad4d21a1c753df42)
 
 ## Articles and Tutorials
 
