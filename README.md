@@ -10,7 +10,7 @@ Have you found something that make Laravel Orchid more awesome? Make a PR and ad
 
 - [Essentials](#essentials)
 - [Packages](#packages)
-- [Sites running Orchid](#sites-running-orchid)
+- [Sites running Orchid](#sites-or-projects-running-orchid)
 - [Code Snippets](#code-snippets)
 - [Articles and Tutorials](#articles-and-tutorials)
 
@@ -21,7 +21,7 @@ Have you found something that make Laravel Orchid more awesome? Make a PR and ad
 ## Packages
 * Add yours to the list, make a PR!
 
-## Sites Running Orchid
+## Sites or Projects Running Orchid
 * Add yours to the list, make a PR!
 
 ## Code Snippets
