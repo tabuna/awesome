@@ -29,7 +29,7 @@ Have you found something that make Laravel Orchid more awesome? Make a PR and ad
 
 ## Articles and Tutorials
 
-* [10.05.2020] - [Enabled Two-Factor Authentication](https://www.youtube.com/watch?v=c6vhc-ScfaQ)
+* [10.05.2020] - [Enabling Two-Factor Authentication](https://www.youtube.com/watch?v=c6vhc-ScfaQ)
 * [29.04.2020] - [Usage Layout Listener](https://www.youtube.com/watch?v=mXFPooGSqs4)
 * [13.04.2020] - [Usage Blade Component](https://www.youtube.com/watch?v=_fFM3D8q44Y)
 
