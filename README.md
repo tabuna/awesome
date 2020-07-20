@@ -20,6 +20,7 @@ Have you found something that make Laravel Orchid more awesome? Make a PR and ad
 
 ## Packages
 *  [Repeater field](https://github.com/Nks/orchid-repeater-field) - Adding support of repeater field
+*  [Livewire](https://github.com/AlexSabur/orchid-livewire) - Adds macros to use Livewire
 
 ## Sites or Projects Running Orchid
 * Add yours to the list, make a PR!
