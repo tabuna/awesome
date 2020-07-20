@@ -19,7 +19,7 @@ Have you found something that make Laravel Orchid more awesome? Make a PR and ad
 * [Laravel Orchid GitHub organisation](https://github.com/orchidsoftware)
 
 ## Packages
-*  [orchid-repeater-field](https://github.com/Nks/orchid-repeater-field) - Adding support of repeater field
+*  [Repeater field](https://github.com/Nks/orchid-repeater-field) - Adding support of repeater field
 
 ## Sites or Projects Running Orchid
 * Add yours to the list, make a PR!
