@@ -30,6 +30,7 @@ Have you found something that make Laravel Orchid more awesome? Make a PR and ad
 
 ## Articles and Tutorials
 
+* [21.07.2020] - [Orchid Platform meets multi-tenancy](https://dev.to/ostap/orchid-platform-meets-multi-tenancy-4e10)
 * [10.05.2020] - [Enabling Two-Factor Authentication](https://www.youtube.com/watch?v=c6vhc-ScfaQ)
 * [29.04.2020] - [Usage Layout Listener](https://www.youtube.com/watch?v=mXFPooGSqs4)
 * [13.04.2020] - [Usage Blade Component](https://www.youtube.com/watch?v=_fFM3D8q44Y)
