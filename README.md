@@ -30,6 +30,7 @@ Have you found something that make Laravel Orchid more awesome? Make a PR and ad
 
 ## Articles and Tutorials
 
+* [05.08.2020] - [Draw model charts in Laravel Orchid](https://dev.to/tabuna/draw-model-charts-in-laravel-orchid-le4)
 * [04.08.2020] - [How to enable two-factor authentication in Laravel Orchid](https://dev.to/tabuna/how-to-enable-two-factor-authentication-in-laravel-orchid-2eim)
 * [28.07.2020] - [Reusing layers in Laravel Orchid](https://dev.to/tabuna/reusing-layers-in-laravel-orchid-10g0)
 * [21.07.2020] - [Orchid Platform meets multi-tenancy](https://dev.to/ostap/orchid-platform-meets-multi-tenancy-4e10)
