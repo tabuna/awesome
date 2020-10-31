@@ -17,6 +17,7 @@ Have you found something that make Laravel Orchid more awesome? Make a PR and ad
 ## Essentials
 * [Laravel Orchid website and documentation](https://orchid.software/)
 * [Laravel Orchid GitHub organisation](https://github.com/orchidsoftware)
+* [Laravel Orchid Blog](https://blog.orchid.software/)
 
 ## Packages
 * [Repeater field](https://github.com/Nks/orchid-repeater-field) - Adding support of repeater field
