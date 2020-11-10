@@ -24,6 +24,9 @@ Have you found something that make Laravel Orchid more awesome? Make a PR and ad
 * [Livewire](https://github.com/AlexSabur/orchid-livewire) - Adds macros to use Livewire
 * [Orchid Help Hints Layout](https://github.com/Leshkens/orchid-help-hint-layout) - Hint Layout package for Orchid Platform
 
+
+Many of our past packages were transferred to the community in ["Orchid Community" organization](https://github.com/orchidcommunity)
+
 ## Companies using Orchid
 * Add yours to the list, make a PR!
 
