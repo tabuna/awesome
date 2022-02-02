@@ -23,6 +23,9 @@ Have you found something that make Laravel Orchid more awesome? Make a PR and ad
 * [Repeater field](https://github.com/Nks/orchid-repeater-field) - Adding support of repeater field
 * [Livewire](https://github.com/AlexSabur/orchid-livewire) - Adds macros to use Livewire
 * [Orchid Help Hints Layout](https://github.com/Leshkens/orchid-help-hint-layout) - Hint Layout package for Orchid Platform
+* [Orchid tables](https://github.com/lintaba/orchid-tables/) - Opinionated extension to table handling capabilities, and some further useful helper methods.
+
+
 
 
 Many of our past packages were transferred to the community in ["Orchid Community" organization](https://github.com/orchidcommunity)
